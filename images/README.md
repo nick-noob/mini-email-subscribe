@@ -1,0 +1,1 @@
+This is the Mini-Project 1 - Email Subscribe Card within Tailwind CSS From Scratch
